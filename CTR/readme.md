@@ -13,3 +13,6 @@
 - 模型[DeepFM]
 
 ## tf版本
+- 数据集[amazon(eletronics)][movielens]
+	- tfrecords
+- 模型[DIN][MOE][Bias][UserPerExpert]
